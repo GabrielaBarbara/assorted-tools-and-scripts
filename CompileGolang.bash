@@ -17,7 +17,7 @@
 #
 #  This works on the entire tree you have in there.
 # 
-#  Written by: https://github.com/GabrielaBarbara/
+#  Written by: https://github.com/GabrielaBarbara/ 
 
 #! /bin/bash
 
