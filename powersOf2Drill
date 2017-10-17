@@ -12,10 +12,10 @@ def main(argv):
     Tip:  the answer is always: number + quantifier, where
           number     = exponent mod 10 
           quantifier = exponent div 10   in 
-             1: k(KB),         2: m (M),  
-             3: g(GB),         4: t(Terabyte), 
-             5: p (Petabyte),  6: e(Exabyte), 
-             7: z(Zettabyte),  8: y (Yottabyte)
+             1: k (KB),         2: m (M),  
+             3: g (GB),         4: t (Terabyte), 
+             5: p (Petabyte),   6: e (Exabyte), 
+             7: z (Zettabyte),  8: y (Yottabyte)
     This is because simplifying the numbers to human readable format
     give this (approximate) solution matrix:
    | 2^0  2^1  2^2  2^3  2^4   2^5   2^6   2^7    2^8    2^9   |  ^n
