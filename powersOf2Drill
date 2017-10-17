@@ -42,7 +42,7 @@ def main(argv):
     correct = 0
     wrong = 0
     while answer != "q":
-        exponent = random.randint(1, 59)
+        exponent = random.randint(1, 90)
         question = "(Type q to quit) Question:  2^%d is...?  > " % exponent
 
         answer = raw_input(question).replace(' ', '')
