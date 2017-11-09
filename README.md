@@ -23,3 +23,5 @@ https://youtu.be/MoreLinksHere
 Where the link is taken from the 'share' button on the youtube page.q
 
 The program creates the directory if it does not already exist in your ~/Music directory, and it checks /var/music if the mp3 you want already exists.  So, if your set up is different, change that please.
+
+Or see 'hacking_music.txt' in this directory for an example of how to set the linksToGet.txt file up, or even just copy what is in there and get 16GB of great ambience music to code to this way.  The binaural beats are especially nice for concentrating, not sure about the claims in the titles, I don't think you'll get rich by listening, but it's certainly true that is helps relaxing and concentrating :-)
